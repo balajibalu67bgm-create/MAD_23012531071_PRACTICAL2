@@ -33,4 +33,5 @@ For every lifecycle event, a message is printed to Logcat. You can filter by the
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL2/blob/3f9644fcd9325c481cd5f2ba3aad1a9d13fb8923/Screenshot%202025-11-29%20101722.png)
 2. Snackbar and Toast Message Output
 A Toast and a Snackbar message are displayed on the screen for each lifecycle event, providing immediate visual feedback directly within the app's UI.
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL2/blob/bb3d6f1ae6b7b32b398b5ade40204a7a373a039e/WhatsApp%20Image%202025-11-29%20at%2010.20.54_27adc316.jpg)
 
